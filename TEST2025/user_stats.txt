@@ -1,0 +1,1 @@
+﻿user_id,total_deliveries,total_spent,favorite_product,favorite_province
